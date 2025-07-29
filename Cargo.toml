@@ -31,7 +31,7 @@ sdl2 = { version = "0.38" }
 ringbuf = "0.4"
 parking_lot = "0.12"
 itertools = "0.14"
-nom = "8"
+nom = "7"
 
 [dev-dependencies]
 rfd = "0.15"
